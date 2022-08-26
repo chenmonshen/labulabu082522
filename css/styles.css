@@ -1,0 +1,145 @@
+
+/*********************class selection *********************/
+.top-container{
+  background-color: #9C9EFE;
+  padding: 308px 0;
+}
+
+.middle-container-fluid{
+  background-color: #FFEEEE;
+  padding: 5% 15%;
+}
+
+.bottom-container{
+  background-color: #FFEEEE;
+  padding-top: 100px;
+  padding-bottom: 5px;
+}
+
+.top-container2{
+  background-color: #C6DCE4;
+}
+
+.top-container3{
+  background-color: #FEFBF6;
+}
+
+.bottom-container2{
+  background-color: #FFE6E6;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+.day730{
+  margin:0px auto 30px;
+  width: 20%;
+  padding: 150px 0 0;
+}
+
+.p2{
+  width: 50%;
+  margin: auto auto 150px;
+}
+
+.hr1{
+  border-style: dotted none none;
+  width: 3%;
+  border-color: #FF4A4A;
+  border-width: 5px;
+  margin: 50px auto;
+}
+
+.hr2{
+  border-style: dotted none none;
+  width: 3%;
+  border-color: #607EAA;
+  border-width: 5px;
+  margin: 50px auto;
+}
+
+.btn{
+  margin: 20px auto auto;
+}
+
+.container-fluid{
+  padding: 30% 15% 10%;
+}
+
+.container-fluid2{
+  padding: 10% 15% 10%;
+}
+
+.container-fluid3{
+  padding: 10% 30% 2%;
+}
+
+.container-fluid4{
+  padding: 10% 25% 10%;
+}
+/*********************id selection *********************/
+#title{
+  font-family: 'Gaegu', cursive;
+  font-size: 3rem;
+  color:#B1E1FF;
+  margin: auto;
+  line-height: normal;
+}
+
+#heart{
+  font-family: 'Gaegu', cursive;
+  font-size: 1.5rem;
+  color:#B1E1FF;
+  margin: auto;
+  line-height: normal;
+}
+
+#p1{
+  font-family: 'Gaegu',cursive;
+  color:#748DA6;
+  font-size: 3rem;
+  margin: 0px auto 30px auto;
+}
+
+#p1-1{
+  font-family: 'Gaegu',cursive;
+  color:#F2D1D1;
+  font-size: 2rem;
+  margin:auto;
+}
+
+#p1-2{
+  font-family: 'Gaegu',cursive;
+  color:#FFE6E6;
+  font-size: 2rem;
+  margin:auto;
+}
+
+#p2{
+  font-family: 'Noto Sans TC', sans-serif;
+  color: #748DA6;
+  line-height: 3;
+}
+
+#p2-1{
+  font-family: 'Noto Sans TC', sans-serif;
+  color: #E4DCCF;
+  line-height: 3;
+}
+
+#p3{
+  font-family: 'Gaegu',cursive;
+  color: #748DA6;
+}
+
+#p-3{
+  font-family: 'Gaegu',cursive;
+  color: #E8F9FD;
+}
+
+#pic1{
+  margin-left:80px;
+}
+
+#pic2{
+  margin-left:100px;
+}
